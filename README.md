@@ -28,7 +28,7 @@ A responsive and visually appealing **Netflix Clone** built using **React JS**, 
 
 ## 🔗 Live Demo
 
-> [👉 Click here to view live](https://rahul11f.github.io/Netflix-Clone)  
+> [👉 Click here to view live](https://rahul11f.github.io/Netflix-Cone-Website/)  
 *(Optional: If deployed, update with your link)*
 
 ---
