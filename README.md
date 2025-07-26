@@ -3,6 +3,17 @@
 
 A responsive and visually appealing **Netflix Clone** built using **React JS**, **Firebase**, and **TMDB API**. This project simulates the core UI/UX of Netflix with user authentication, movie browsing, and persistent watchlists.
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](assets/screenshots/S1.png)
+
+### 🏠 Home Page
+![Home](assets/screenshots/S2.png)
+
+### ❤️ Watchlist
+![Watchlist](assets/screenshots/S3.png)
+
 ## 🔗 Live Demo
 
 > [👉 Click here to view live](https://rahul11f.github.io/Netflix-Clone)  
