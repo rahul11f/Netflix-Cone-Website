@@ -3,6 +3,13 @@
 
 A responsive and visually appealing **Netflix Clone** built using **React JS**, **Firebase**, and **TMDB API**. This project simulates the core UI/UX of Netflix with user authentication, movie browsing, and persistent watchlists.
 
+## 🔗 Live Demo With Netlify
+[👉 Click here to view live](https://net-flix-clone-rahul11f.netlify.app/) 
+ 
+ ## 🔗 Live Demo With Github 
+[👉 Click here to view live](https://rahul11f.github.io/Netflix-Cone-Website/)  
+
+> 
 ## 📸 Screenshots
 
 ### 🔐 Login Page
@@ -26,12 +33,6 @@ A responsive and visually appealing **Netflix Clone** built using **React JS**, 
 ### ❤️ Footer
 ![Watchlist](assets/screenshots/S7.png)
 
-## 🔗 Live Demo
-
-> [👉 Click here to view live](https://rahul11f.github.io/Netflix-Cone-Website/)  
-*(Optional: If deployed, update with your link)*
-
----
 ---
 ## 🧑‍💻 Features
 
