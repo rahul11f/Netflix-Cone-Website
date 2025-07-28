@@ -30,7 +30,7 @@ A responsive and visually appealing **Netflix Clone** built using **React JS**, 
 ### ❤️ Frequently Asked Question
 ![Watchlist](assets/screenshots/S6.png)
 
-### ❤️ Footer
+### 😎 Footer
 ![Watchlist](assets/screenshots/S7.png)
 
 ---
