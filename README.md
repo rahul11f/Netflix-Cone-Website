@@ -27,7 +27,7 @@ A responsive and visually appealing **Netflix Clone** built using **React JS**, 
 ### ❤️ Create Profile For Kids
 ![Watchlist](assets/screenshots/S5.png)
 
-### ❤️ Frequently Asked Question
+### ❓ Frequently Asked Question
 ![Watchlist](assets/screenshots/S6.png)
 
 ### 😎 Footer
